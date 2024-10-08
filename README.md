@@ -1,7 +1,7 @@
 # AlberAnalafean
 
 
-Tugas Membuat html membangun Website sederhan berisi biodata dalam memenuhi matakuliah GT4138-WebGIS
+Tugas Membuat html untuk membangun Website sederhana berisi biodata, website ini dibuat dalam memenuhi tugas matakuliah GT4138-WebGIS
 
 
 berikut tampilan website sederrhana yang bisa diakses pada link ini: https://alberanalafean22.github.io/AlberAnalafean/webgis121450146.html
